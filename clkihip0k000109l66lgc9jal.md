@@ -1,10 +1,10 @@
 ---
-title: "Navigating the Infinite Jest"
+title: "Navigating the Infinite Jest: Twitter(X) Garbage Collection system for Personal Growth"
 seoTitle: "Navigating the Infinite Jest: Twitter(X) Garbage Collection system for"
 seoDescription: "Discover strategies to optimize your Twitter feed for personal growth. Learn how to combat Twitter's algorithm and declutter your social media."
 datePublished: Tue Jul 25 2023 16:01:49 GMT+0000 (Coordinated Universal Time)
 cuid: clkihip0k000109l66lgc9jal
-slug: navigating-the-infinite-jest
+slug: navigating-the-infinite-jest-twitterx-garbage-collection-system-for-personal-growth
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690238640006/a04607e1-9bbf-4db4-b434-fd49b8efe2ac.png
 tags: twitter, learning, personal-development, growth-1, mentalhealth-1
 
